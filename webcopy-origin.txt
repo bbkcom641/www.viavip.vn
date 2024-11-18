@@ -1,0 +1,928 @@
+Uri: https://cdn.jsdelivr.net/npm/flatpickr
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\flatpickr-1
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\flatpickr\dist\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\notyf@3\notyf.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\notyf@3\notyf.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/simple-notify@1.0.4/dist/simple-notify.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\simple-notify@1.0.4\dist\simple-notify.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/simple-notify@1.0.4/dist/simple-notify.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\npm\simple-notify@1.0.4\dist\simple-notify.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\ajax\libs\clipboard.js\2.0.6\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dosis/v32/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\dosis\v32\HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MD6c-2-nnJkHxyCjRcnMHcWVWV1cWRRU8L.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MD6c-2-nnJkHxyCjRcnMHcWVWV1cWRRU8L.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXe3TcMW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXe3TcMW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXenSsMW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXenSsMW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXePT8MW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXePT8MW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXerTsMW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXerTsMW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXfDScMW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXfDScMW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXfTTMMW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXfTTMMW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXf_S8MW.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MM6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXf_S8MW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairasemicondensed/v13/U9MN6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXdvaOM.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\s\sairasemicondensed\v13\U9MN6c-2-nnJkHxyCjRcnMHcWVWV1cWRRXdvaOM.ttf
+Content Type: font/ttf
+
+Uri: https://thispersondoesnotexist.com/
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\index-1.htm
+Content Type: image/jpeg
+
+Uri: https://www.viagold.vn/
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\index.htm
+Content Type: text/html
+
+Uri: https://www.viagold.vn/assets/img/bg5_zps9146c4c3.gif
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\img\bg5_zps9146c4c3.gif
+Content Type: image/gif
+
+Uri: https://www.viagold.vn/assets/img/icon-bank.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\img\icon-bank.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/assets/img/icon-usdt.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\img\icon-usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/assets/storage/images/avatarP2H.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\avatarP2H.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/banner_singer08A.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\banner_singer08A.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/categoryH3WP.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\categoryH3WP.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/categoryR4EI.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\categoryR4EI.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/favicon_WR0.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\favicon_WR0.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon0JCD.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon0JCD.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon0O8Y.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon0O8Y.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon1QLV.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon1QLV.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon2E4J.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon2E4J.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon6K7A.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon6K7A.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/icon9NB2.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\icon9NB2.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconJG85.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconJG85.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconLXVD.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconLXVD.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconP6A8.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconP6A8.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconTO9U.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconTO9U.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconW9VY.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconW9VY.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconYIVE.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconYIVE.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconYVAS.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconYVAS.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/iconZLUE.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\iconZLUE.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/assets/storage/images/logo_light_7YV.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\assets\storage\images\logo_light_7YV.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/blogs
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\blogs.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/bm
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\bm.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/clone-facebook-amp-instagram
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\clone-facebook-amp-instagram.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/gmail-amp-gmx
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\gmail-amp-gmx.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/tai-khoan-limit-250-amp-tai-khoan-quang-cao-co
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\tai-khoan-limit-250-amp-tai-khoan-quang-cao-co.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-an-do-bangladesh-pakistan
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-an-do-bangladesh-pakistan.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-cac-nuoc-dong-nam-a
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-cac-nuoc-dong-nam-a.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-cac-nuoc-eu-co
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-cac-nuoc-eu-co.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-chau-my
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-chau-my.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-chau-phi
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-chau-phi.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-indonesia
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-indonesia.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-philippines
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-philippines.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-spam-cac-nuoc
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-spam-cac-nuoc.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-thai-lan
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-thai-lan.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-usa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-usa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/category/via-viet
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\category\via-viet.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\index.htm
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/contact
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\contact.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/faq
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\faq.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/forgot-password
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\forgot-password.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/home
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\home.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/login
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\login.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/policy
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\policy.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/client/register
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\client\register.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/mod/css/main.css?v=17
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\css\main.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/mod/img/bg-1.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\bg-1.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/bg-2.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\bg-2.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/bg-3.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\bg-3.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/bg-4.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\bg-4.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/bg-intro.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\bg-intro.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/icon-facebook.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\icon-facebook.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/icon-google-auth.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\icon-google-auth.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/img/icon-random-face.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\img\icon-random-face.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/mod/js/main.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\mod\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/product/bm0-co-agc-1tk-limit-250-hoac-nlm-bao-tut-bao-len-bm5111
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm0-co-agc-1tk-limit-250-hoac-nlm-bao-tut-bao-len-bm5111.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm0-ngam-250-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1368
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm0-ngam-250-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1368.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm1-co-khang-limit-250-5m8143
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm1-co-khang-limit-250-5m8143.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm1-co-limit-250-5m8-tut-new1188
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm1-co-limit-250-5m8-tut-new1188.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm350-co-khang-3-dong-an-tich110
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm350-co-khang-3-dong-an-tich110.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm350-co-nam-2019-202295
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm350-co-nam-2019-202295.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm350-ngam-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm350-ngam-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm350-ngam-co-tai-khoan-da-tao-3-12-thang109
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm350-ngam-co-tai-khoan-da-tao-3-12-thang109.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm350-tao-tu-thang-5-nam-2023
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm350-tao-tu-thang-5-nam-2023.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-250-co-khang-an-tich-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1391
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-250-co-khang-an-tich-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1391.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-250-co-tut-tu-nlm-trong-4-len-nlm-nhanh-theo-chi-tieu-tai-khoan1390
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-250-co-tut-tu-nlm-trong-4-len-nlm-nhanh-theo-chi-tieu-tai-khoan1390.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-250-trong-4-khang-an-tich-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1369
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-250-trong-4-khang-an-tich-tut-tu-nlm-len-nlm-nhanh-theo-chi-tieu-tai-khoan1369.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-bau-cu-limit-250-4-tk-bao-tut1384
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-bau-cu-limit-250-4-tk-bao-tut1384.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-bau-cu-limit-250-co-khang-an-tich-4-tk-bao-tut1374
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-bau-cu-limit-250-co-khang-an-tich-4-tk-bao-tut1374.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-co-khang-an-tich-1tk-limit-250-4-tk-bao-tut118
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-co-khang-an-tich-1tk-limit-250-4-tk-bao-tut118.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-co-limit-250-5m8-trong-4slot144
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-co-limit-250-5m8-trong-4slot144.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm5-co-limit-250-trong-4slot-5m8-tut-new1728
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm5-co-limit-250-trong-4slot-5m8-tut-new1728.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm50-co-khang-an-tich6
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm50-co-khang-an-tich6.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm50-co-nam-2019-20224
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm50-co-nam-2019-20224.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm50-co-nam-2019-2023-co-tk1255
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm50-co-nam-2019-2023-co-tk1255.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm50-ngam-co-tk1257
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm50-ngam-co-tk1257.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/bm50-ngam5
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\bm50-ngam5.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/canada-co-2fa-live1194
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\canada-co-2fa-live1194.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/clone-instagram-ngam-khang-282199
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\clone-instagram-ngam-khang-282199.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/clone-instagram-zin-all195
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\clone-instagram-zin-all195.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/clone-instagram-zin-co-2fa1393
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\clone-instagram-zin-co-2fa1393.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/clone-name-ngoai---ip-random---verie-email---new-zin1552
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\clone-name-ngoai---ip-random---verie-email---new-zin1552.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/clone-ngoai-nuoi-vai-thang-100-5000-ban-be1372
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\clone-ngoai-nuoi-vai-thang-100-5000-ban-be1372.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/combo-via-9-tkcn-1m1-co-2009-20231596
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\combo-via-9-tkcn-1m1-co-2009-20231596.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/combo-via-9-tkcn-1m172
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\combo-via-9-tkcn-1m172.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/gmail-chuan-us-nam-20235
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\gmail-chuan-us-nam-20235.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/gmail-tao-ios-reg-3-months-ip-random26
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\gmail-tao-ios-reg-3-months-ip-random26.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/tai-khoan-gmx28
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\tai-khoan-gmx28.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/thai-land-co-no2fa-zin367
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\thai-land-co-no2fa-zin367.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-an-do-no-2faindian-account-no-2fa84
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-an-do-no-2faindian-account-no-2fa84.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-argentine-co-no-2fa320
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-argentine-co-no-2fa320.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-bdpkr-np-new86
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-bdpkr-np-new86.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-bdpkr-npin-co-no2fa158
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-bdpkr-npin-co-no2fa158.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-bo-dao-nha-co-acc-portugal-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-bo-dao-nha-co-acc-portugal-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-brazil-co-cp-mail-no-2fa-2008-2022-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-brazil-co-cp-mail-no-2fa-2008-2022-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-brazilco-no-2fa71
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-brazilco-no-2fa71.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-chau-phi-new-no2fa-new-africa74
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-chau-phi-new-no2fa-new-africa74.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-co-tkqc-co-2023-quay-lai
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-co-tkqc-co-2023-quay-lai.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-indonesia-co-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-indonesia-co-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-indonesia-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-indonesia-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-malaysia-no-2fa73
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-malaysia-no-2fa73.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-mexico-co
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-mexico-co.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-nam-phi-co-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-nam-phi-co-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-nam-phi-co-no-2fa-die-ads-dung-de-spam-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-nam-phi-co-no-2fa-die-ads-dung-de-spam-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-ngoai-co-die-ads-chuyen-dung-spam-seeding
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-ngoai-co-die-ads-chuyen-dung-spam-seeding.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-ngoai-co-limit-250-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-ngoai-co-limit-250-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-ngoai-co-no-2fa-random-quoc-gia-tru-an-do-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-ngoai-co-no-2fa-random-quoc-gia-tru-an-do-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-philippines-co-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-philippines-co-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-philippines-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-philippines-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co-no-2fa-200-1000fr-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co-no-2fa-200-1000fr-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co-no-2fa-30-200fr-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co-no-2fa-30-200fr-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co-no-2fa-tren-1000-ban-be
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co-no-2fa-tren-1000-ban-be.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co-nuoi
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co-nuoi.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-usa-co200-1kbb
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-usa-co200-1kbb.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-viet-co-limit-1m1
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-viet-co-limit-1m1.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-viet-co-no-2fa-limit-1m1-
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-viet-co-no-2fa-limit-1m1-.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-viet-co-tren-1k-ban-be-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-viet-co-tren-1k-ban-be-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/product/via-viet-limit-1m1-no-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\product\via-viet-limit-1m1-no-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/public/client/css/blog-grid.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\blog-grid.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/contact.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\contact.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/index.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\index.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/main.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\main.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/product-details.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\product-details.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/user-auth.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\user-auth.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/css/wallet.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\css\wallet.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon﹖.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/flaticon.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon.woff
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://www.viagold.vn/public/client/fonts/flaticon/Flaticon.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\flaticon\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400﹖.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400.woff
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-brands-400.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400﹖.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400.woff
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-regular-400.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900﹖.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900.eot
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900.svg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900.woff
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fa-solid-900.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/client/fonts/fontawesome/fontawesome.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\fontawesome\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/fonts/icofont/icofont.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/fonts/icofont/icofont.woff
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\icofont\icofont.woff
+Content Type: font/woff
+
+Uri: https://www.viagold.vn/public/client/fonts/icofont/icofont.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\fonts\icofont\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/client/images/banner-shape.png
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\images\banner-shape.png
+Content Type: image/png
+
+Uri: https://www.viagold.vn/public/client/images/payment/jpg/01.jpg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\images\payment\jpg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.viagold.vn/public/client/images/payment/jpg/02.jpg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\images\payment\jpg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.viagold.vn/public/client/images/payment/jpg/03.jpg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\images\payment\jpg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.viagold.vn/public/client/images/payment/jpg/04.jpg
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\images\payment\jpg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.viagold.vn/public/client/js/accordion.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\accordion.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/js/countdown.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\countdown.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/js/main.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/js/nice-select.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\nice-select.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/js/slick.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\slick.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/js/venobox.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\js\venobox.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/bootstrap/bootstrap.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/vendor/bootstrap/bootstrap.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\bootstrap\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/bootstrap/jquery-1.12.4.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\bootstrap\jquery-1.12.4.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/bootstrap/popper.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\bootstrap\popper.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/countdown/countdown.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\countdown\countdown.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/niceselect/nice-select.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\niceselect\nice-select.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/vendor/niceselect/nice-select.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\niceselect\nice-select.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/slickslider/slick.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\slickslider\slick.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/vendor/slickslider/slick.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\slickslider\slick.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/client/vendor/venobox/venobox.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\venobox\venobox.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/client/vendor/venobox/venobox.min.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\client\vendor\venobox\venobox.min.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/cute-alert/cute-alert.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\cute-alert\cute-alert.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/cute-alert/style.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\cute-alert\style.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/fontawesome/css/all.min.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-brands-400.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-brands-400.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-regular-400.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-regular-400.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-solid-900.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-solid-900.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.viagold.vn/public/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.viagold.vn/public/js/jquery-3.6.0.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\js\jquery-3.6.0.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/js/main.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/public/sweetalert2/default.css
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\sweetalert2\default.css
+Content Type: text/css
+
+Uri: https://www.viagold.vn/public/sweetalert2/sweetalert2.js
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\public\sweetalert2\sweetalert2.js
+Content Type: text/javascript
+
+Uri: https://www.viagold.vn/tool/check-live-facebook
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\tool\check-live-facebook.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/tool/get-2fa
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\tool\get-2fa.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/tool/icon-facebook
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\tool\icon-facebook.html
+Content Type: text/html
+
+Uri: https://www.viagold.vn/tool/random-face
+File Name: D:\Desktop\bán via\New folder\www.viagold.vn\tool\random-face.html
+Content Type: text/html
+
